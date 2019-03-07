@@ -70,7 +70,7 @@
                     <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="cl9-HN-nEj">
                         <rect key="frame" x="282" y="231" width="76" height="17"/>
                         <textFieldCell key="cell" lineBreakMode="clipping" title="Initializing..." id="cPd-n2-Oz4">
-                            <font key="font" usesAppearanceFont="YES"/>
+                            <font key="font" name="" usesAppearanceFont="YES"/>
                             <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
                         </textFieldCell>
@@ -79,7 +79,7 @@
                         <rect key="frame" x="266" y="13" width="108" height="32"/>
                         <buttonCell key="cell" type="push" title="Scan Again" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="3aF-Gp-XtN">
                             <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
-                            <font key="font" metaFont="system"/>
+                            <font key="font" name="" metaFont="system"/>
                         </buttonCell>
                         <connections>
                             <action selector="onButton:" target="Voe-Tx-rLC" id="UyF-La-4hU"/>
